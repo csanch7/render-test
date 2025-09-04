@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "4",
+      "content": "yo",
+      "important": true
+    },
+    {
+      "id": "5",
+      "content": "hi",
+      "important": false
+    },
+    {
+      "id": "6",
+      "content": "yo",
+      "important": true
+    },
+    {
+      "id": "7",
+      "content": "hello man",
+      "important": true
+    },
+    {
+      "id": "8",
+      "content": "yo",
+      "important": true
+    }
+  ]
+}
